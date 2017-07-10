@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "コンビニ"
+            "text": "カフェ"
         },
         "polyline": {
             "width": 1,
