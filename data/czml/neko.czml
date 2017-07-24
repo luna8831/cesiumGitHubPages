@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "カフェ"
+            "text": "鎌倉スタバ"
         },
         "polyline": {
             "width": 1,
@@ -154,7 +154,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "スタバ"
+            "text": "表参道スタバ"
         },
         "polyline": {
             "width": 1,
@@ -243,7 +243,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "スタバ"
+            "text": "代官山スタバ"
         },
         "polyline": {
             "width": 1,
@@ -332,7 +332,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "スタバ"
+            "text": "江ノ島スタバ"
         },
         "polyline": {
             "width": 1,
@@ -421,7 +421,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "コンビニ"
+            "text": "上野公園店スタバ"
         },
         "polyline": {
             "width": 1,
